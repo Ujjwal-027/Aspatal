@@ -41,5 +41,3 @@ const Footer = () => {
 }
 
 export default Footer
-
-1 hr 48 min 33 sec
